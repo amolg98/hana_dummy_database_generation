@@ -1,0 +1,1 @@
+# hana_dummy_database_generation
